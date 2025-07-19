@@ -1,0 +1,12 @@
+PySide6
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+opencv-python-headless
+Pillow
+rembg[gpu]  # or rembg[cpu]
+pyarmor
+pyinstaller
